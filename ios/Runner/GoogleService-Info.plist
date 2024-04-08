@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1053937023170-b038dm47je76o21tc4n02bvne076ke4k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBB3r8E3y7tb7qZbUZbeaBX_vSV5gPg0IU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1053937023170</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ai.wizardai.aiImagez</string>
+	<key>PROJECT_ID</key>
+	<string>api-6703111472921953226-299327</string>
+	<key>STORAGE_BUCKET</key>
+	<string>api-6703111472921953226-299327.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1053937023170:ios:1fa9d87642c1a24003635b</string>
+	<key>DATABASE_URL</key>
+	<string>https://api-6703111472921953226-299327.firebaseio.com</string>
+</dict>
+</plist>
