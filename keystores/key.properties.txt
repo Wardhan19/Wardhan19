@@ -1,0 +1,4 @@
+storePassword=123456
+keyPassword=123456
+keyAlias=upload
+storeFile=/Users/rajjani/Desktop/android_projects/ai_hub_project/pixelcraft.ai/ai_imagez/keystores/upload123456.jks
